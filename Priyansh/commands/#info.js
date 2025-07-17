@@ -2,7 +2,7 @@
 	name: "info",
 	version: "1.0.1", 
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "Ahad",
 	description: "Admin and Bot info.",
 	commandCategory: "...",
 	cooldowns: 1,
@@ -30,16 +30,16 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
-🔥Bot Admin🔥ཫ༄𒁍⃝𝐌𝐀𝐑⃟𝐈𝐍𝐀 ☜︎︎︎✰🎁
+🔥Bot Admin🔥ཫ༄𝐀𝐇𝐀𝐃 𝐌𝐔𝐆𝐇𝐀𝐋🎁
 
-🙈bot andmin owner facebook id link🙈👇🏻\n https://www.facebook.com\n
+🙈bot andmin owner facebook id link🙈👇🏻\n https://www.facebook.com/share/1F6RgQmnLL/\n
 
 👋For Any Kind Of Help 😇
 ✧══════•❁❀❁•══════✧
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️Bot Owner♥️ ཫ༄𒁍⃝𝐌𝐀𝐑⃟𝐈𝐍𝐀☜︎︎︎✰ 
+♥️Bot Owner♥️ ཫ𝐀𝐇𝐀𝐃 𝐖𝐑𝐈𝐓𝐄𝐒
 
 🥳UPTIME🥳
 
