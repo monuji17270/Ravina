@@ -3,7 +3,7 @@ module.exports.config = {
   name: "bot2",
   version: "1.0.4",
   hasPermssion: 0,
-  credits: "Mr.Aaryan",
+  credits: "AHAD MUGHAL",
   description: "goibot",
   commandCategory: "Noprefix",
   usages: "noprefix",
