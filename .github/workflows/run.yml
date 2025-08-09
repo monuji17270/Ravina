@@ -1,4 +1,4 @@
-name: Node.js CI
+ame: Node.js CI
 
 on:
   push:
@@ -29,8 +29,4 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    # Step to run the bot with the correct port
-    - name: Start the bot
-      env:
-        PORT: 8080
-      run: npm start
+    
